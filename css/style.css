@@ -3,8 +3,16 @@
 				   height: 675px;
 				   background-position: center;
                    }
-.background-text {
-                  padding-right: 20px;
-                  padding-bottom: 20px;
-                  padding-left: 200px;
-                  }  
+.button  {
+	       padding:400px 393px 15px;
+          }
+.button b{
+	color: blue;
+	font-weight: 900;
+}		  
+/* .background-image h2 {
+	               padding:400px 393px 15px;
+                   }
+.background-image p {
+	                padding: 00px 393px 292px;
+                   } */
