@@ -1,18 +1,16 @@
 .background-image {
-	               background-image: url('../assets/hero-bg.jpg');
-				   height: 675px;
-				   background-position: center;
+	               background-image: url(../assets/hero-bg.jpg);
+                    height: 686px;
+					background-position: center;
+					background-repeat: no-repeat;
                    }
 .button  {
-	       padding:400px 393px 15px;
+	           padding: 299px 265px 5px 197px;
           }
 .button b{
 	color: blue;
 	font-weight: 900;
 }		  
-/* .background-image h2 {
-	               padding:400px 393px 15px;
-                   }
-.background-image p {
-	                padding: 00px 393px 292px;
-                   } */
+.button h2 {
+	font-weight: 900;
+}
